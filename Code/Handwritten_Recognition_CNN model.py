@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 16 12:46:19 2020
 
-@author: Shruti
-"""
 
 #A simple CNN model for handwritten recognition using mnist dataset
  
